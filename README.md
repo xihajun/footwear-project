@@ -1,6 +1,8 @@
 # Footwear project
 *Project for Leverhulme Research Centre*
 
+[Demo](https://share.streamlit.io/xihajun/streamlit-footwear/main): you can upload image from [here](https://github.com/xihajun/footwear-project/tree/master/images) if you'd like to have a test.
+
 -	Introduced autoencoder and bag of word model for footwear object detection, segmentation, and localisation.
 -	Obtained reasonable performance of handling random out-of-sample testing by only looking at 6 in-sample images.
 
